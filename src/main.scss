@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+}
+
+.d-flex {
+  display: flex !important;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.router-link-exact-active {
+  background: #4e5d78;
+  border-radius: 10px;
+  color: #fff !important;
+}
